@@ -1,5 +1,5 @@
 // src/App.jsx
-import Bmi from '../bmi-calculator/src/components/Bmi.jsx';
+import Bmi from "./components/Bmi.jsx";
 
 function App() {
   return (
