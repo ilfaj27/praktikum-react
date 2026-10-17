@@ -1,5 +1,5 @@
 // src/App.jsx
-import NameFormatter from '../name-formatter/src/components/NamaFormatter.jsx';
+import NameFormatter from './components/NamaFormatter.jsx';
 
 function App() {
   return (
